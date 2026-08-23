@@ -11,9 +11,14 @@ export const assets = {
    * Cartoon face used in the hero.
    */
   heroFace: {
-    flat: '/assets/cartoon-face.png',
-    layers: null,
-  },
+  flat: '/assets/cartoon-face.png',
+  layers: null as {
+    base: string
+    eyes: string
+    lids: string
+    mouth: string
+  } | null,
+},
 
   /**
    * Section 02 animated AI/ML artwork.
