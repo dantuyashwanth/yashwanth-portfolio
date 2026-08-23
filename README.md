@@ -2,10 +2,6 @@
 
 A modern and interactive personal portfolio website built to showcase my profile, skills, projects, and experience in Artificial Intelligence and Machine Learning.
 
-## 🚀 Live Demo
-
-Coming soon...
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Dantu Yashwanth Kumar**, an AI/ML enthusiast and developer interested in building intelligent applications and solving real-world problems using Artificial Intelligence and Machine Learning.
