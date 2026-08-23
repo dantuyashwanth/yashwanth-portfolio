@@ -48,7 +48,7 @@ export const assets = {
   /**
    * Contact avatar.
    */
-  avatar: '/assets/avatar.webp' as string | null,
+  avatar: '/assets/avatar.png' as string | null,
 
   /**
    * Project images.
